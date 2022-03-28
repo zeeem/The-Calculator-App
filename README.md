@@ -2,7 +2,7 @@
 
 A basic calculator app using flutter.
 
-## required libs:
+## Required libs:
 - flutter: 2.9.0
 - cupertino_icons: ^1.0.0
 - get: ^3.26.0
